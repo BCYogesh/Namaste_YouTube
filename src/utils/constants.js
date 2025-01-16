@@ -11,3 +11,5 @@ export const YOUTUBE_SEARCH_VIDEO_API = "https://www.googleapis.com/youtube/v3/s
 // Images
 export const USER_ICON = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe2kBgDZJMJmO9DYHyzsaFeDJ_GCvuMGwiog&s";
 export const YOUTUBE_LOGO = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSClbbfGiEBp1F8m8_6-mUdtdyb537zznVT7A&s";
+
+export const LIVE_CHAT_COUNT = 100;
